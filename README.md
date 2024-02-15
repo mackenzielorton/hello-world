@@ -1,5 +1,5 @@
 # hello-world
-This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program.  Think of this as documentation.
+Practice of a read-me for BAIS Pro Prep. 
 
 ## Table of contents
 
@@ -12,11 +12,11 @@ This is a sample of a good README.md file that can be used when describing a pro
 
 ## Project Title
 
-*Hello World Sample* 
+*Hello World Sample for Mackenzie Lorton* 
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+***First time writing code!***
 
 ## How to Run Program 
 
