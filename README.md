@@ -12,7 +12,7 @@ Practicing doing a read-me for BAIS Pro Prep.
 
 ## Project Title
 
-*Hello World Sample for ==Mackenzie Lorton==.
+*Hello World Sample for _Mackenzie Lorton_.
 
 ## Description
 
